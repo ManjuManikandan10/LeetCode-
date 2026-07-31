@@ -104,4 +104,5 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
