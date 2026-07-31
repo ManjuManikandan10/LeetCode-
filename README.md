@@ -104,6 +104,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
+| [1683-invalid-tweets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
