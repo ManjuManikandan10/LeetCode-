@@ -104,6 +104,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
