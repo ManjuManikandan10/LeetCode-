@@ -105,6 +105,7 @@ Leet Code
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1729-find-followers-count/) | Easy |
