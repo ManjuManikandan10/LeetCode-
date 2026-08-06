@@ -104,6 +104,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1148-article-views-i/) | Easy |
