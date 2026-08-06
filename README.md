@@ -105,6 +105,7 @@ Leet Code
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
