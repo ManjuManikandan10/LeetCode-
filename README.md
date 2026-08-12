@@ -112,6 +112,7 @@ Leet Code
 | [1179-reformat-department-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1179-reformat-department-table/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1251-average-selling-price/) | Easy |
+| [1321-restaurant-growth](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1407-top-travellers/) | Easy |
