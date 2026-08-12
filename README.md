@@ -107,6 +107,7 @@ Leet Code
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1075-project-employees-i/) | Easy |
