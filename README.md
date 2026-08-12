@@ -142,4 +142,5 @@ Leet Code
 | [1789-primary-department-for-each-employee](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1907-count-salary-categories](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->
