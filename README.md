@@ -103,6 +103,7 @@ Leet Code
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0550-game-play-analysis-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0619-biggest-single-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1068-product-sales-analysis-i/) | Easy |
