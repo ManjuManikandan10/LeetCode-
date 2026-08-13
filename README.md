@@ -150,4 +150,5 @@ Leet Code
 | [3521-find-product-recommendation-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3564-seasonal-sales-analysis](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3580-find-consistently-improving-employees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3580-find-consistently-improving-employees/) | Medium |
+| [3586-find-covid-recovery-patients](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3586-find-covid-recovery-patients/) | Medium |
 <!---LeetCode Topics End-->
