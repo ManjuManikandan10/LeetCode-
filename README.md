@@ -147,4 +147,5 @@ Leet Code
 | [3421-find-students-who-improved](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3497-analyze-subscription-conversion/) | Medium |
+| [3521-find-product-recommendation-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 <!---LeetCode Topics End-->
