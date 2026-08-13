@@ -145,4 +145,5 @@ Leet Code
 | [1907-count-salary-categories](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1934-confirmation-rate/) | Medium |
 | [3421-find-students-who-improved](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3421-find-students-who-improved/) | Medium |
+| [3475-dna-pattern-recognition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
