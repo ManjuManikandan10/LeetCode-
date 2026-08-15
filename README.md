@@ -144,6 +144,7 @@ Leet Code
 | [1873-calculate-special-bonus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1934-confirmation-rate/) | Medium |
+| [3374-first-letter-capitalization-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3421-find-students-who-improved](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3497-analyze-subscription-conversion/) | Medium |
