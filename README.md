@@ -26,6 +26,7 @@ Leet Code
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
