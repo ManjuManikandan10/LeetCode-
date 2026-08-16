@@ -79,6 +79,7 @@ Leet Code
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Leet Code
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
