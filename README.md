@@ -30,6 +30,7 @@ Leet Code
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Hash Table
@@ -382,10 +383,12 @@ Leet Code
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 <!---LeetCode Topics End-->
