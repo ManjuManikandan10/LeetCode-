@@ -14,6 +14,7 @@ Leet Code
 | [0016-3sum-closest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0056-merge-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -105,6 +106,7 @@ Leet Code
 | [0015-3sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Backtracking
@@ -175,4 +177,8 @@ Leet Code
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
