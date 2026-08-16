@@ -255,6 +255,7 @@ Leet Code
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +374,7 @@ Leet Code
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Directed Acyclic Graph
@@ -409,6 +411,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
