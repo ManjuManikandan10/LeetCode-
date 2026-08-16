@@ -72,6 +72,7 @@ Leet Code
 | [0010-regular-expression-matching](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Leet Code
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -162,6 +164,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
