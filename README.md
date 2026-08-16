@@ -51,6 +51,7 @@ Leet Code
 | [0009-palindrome-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0013-roman-to-integer/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ Leet Code
 | [0016-3sum-closest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
