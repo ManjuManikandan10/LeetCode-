@@ -13,6 +13,7 @@ Leet Code
 | [0015-3sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Leet Code
 | [0012-integer-to-roman](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
