@@ -21,11 +21,13 @@ Leet Code
 | [0012-integer-to-roman](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Math
