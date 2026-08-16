@@ -49,6 +49,7 @@ Leet Code
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0147-insertion-sort-list/) | Medium |
@@ -69,6 +70,7 @@ Leet Code
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0206-reverse-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
