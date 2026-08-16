@@ -83,6 +83,7 @@ Leet Code
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -271,4 +272,28 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0141-linked-list-cycle/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
