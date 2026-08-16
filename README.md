@@ -16,6 +16,7 @@ Leet Code
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
@@ -34,6 +35,7 @@ Leet Code
 | [0013-roman-to-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Linked List
@@ -90,6 +92,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 ## Two Pointers
@@ -222,4 +225,12 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
