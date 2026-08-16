@@ -14,6 +14,7 @@ Leet Code
 | [0016-3sum-closest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
+| [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +162,8 @@ Leet Code
 | [3586-find-covid-recovery-patients](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3586-find-covid-recovery-patients/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 | [3611-find-overbooked-employees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3611-find-overbooked-employees/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
