@@ -351,5 +351,10 @@ Leet Code
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
