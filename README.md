@@ -15,6 +15,7 @@ Leet Code
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -76,6 +77,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +208,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
