@@ -87,6 +87,7 @@ Leet Code
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,14 +277,17 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,8 +296,10 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
