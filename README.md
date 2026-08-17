@@ -302,12 +302,14 @@ Leet Code
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +416,7 @@ Leet Code
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -467,4 +470,5 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
