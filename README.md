@@ -22,6 +22,7 @@ Leet Code
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
+| [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -353,6 +354,7 @@ Leet Code
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
