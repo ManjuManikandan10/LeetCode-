@@ -42,6 +42,7 @@ Leet Code
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Leet Code
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [3803-count-residue-prefixes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +311,7 @@ Leet Code
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
