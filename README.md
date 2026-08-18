@@ -484,4 +484,12 @@ Leet Code
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->
