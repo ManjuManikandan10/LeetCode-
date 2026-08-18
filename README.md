@@ -95,6 +95,7 @@ Leet Code
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [3870-count-commas-in-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3870-count-commas-in-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
