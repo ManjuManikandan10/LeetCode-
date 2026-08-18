@@ -41,6 +41,7 @@ Leet Code
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
