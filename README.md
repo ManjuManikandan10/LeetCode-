@@ -523,6 +523,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
