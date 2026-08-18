@@ -49,6 +49,7 @@ Leet Code
 | [3912-valid-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +413,7 @@ Leet Code
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
