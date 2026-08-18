@@ -50,6 +50,7 @@ Leet Code
 | [3917-count-indices-with-opposite-parity](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ Leet Code
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
