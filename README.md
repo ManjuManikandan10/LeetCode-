@@ -78,6 +78,7 @@ Leet Code
 | [3803-count-residue-prefixes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
+| [3945-digit-frequency-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3945-digit-frequency-score/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Leet Code
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3908-valid-digit-number/) | Easy |
+| [3945-digit-frequency-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3945-digit-frequency-score/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
