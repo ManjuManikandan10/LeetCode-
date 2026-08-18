@@ -44,6 +44,7 @@ Leet Code
 | [3861-minimum-capacity-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,4 +506,5 @@ Leet Code
 | ------- | ------- |
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 <!---LeetCode Topics End-->
