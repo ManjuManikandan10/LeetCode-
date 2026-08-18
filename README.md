@@ -39,6 +39,7 @@ Leet Code
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
+| [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,4 +493,5 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
+| [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 <!---LeetCode Topics End-->
