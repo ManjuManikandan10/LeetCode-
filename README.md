@@ -48,6 +48,7 @@ Leet Code
 | [3903-smallest-stable-index-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
+| [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ Leet Code
 | [3856-trim-trailing-vowels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@ Leet Code
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
