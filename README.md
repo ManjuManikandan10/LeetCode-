@@ -47,6 +47,7 @@ Leet Code
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3912-valid-elements-in-an-array/) | Easy |
+| [3917-count-indices-with-opposite-parity](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
