@@ -20,6 +20,7 @@ Leet Code
 | [0128-longest-consecutive-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
@@ -322,6 +323,7 @@ Leet Code
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -537,6 +539,7 @@ Leet Code
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
