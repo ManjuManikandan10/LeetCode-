@@ -29,6 +29,7 @@ Leet Code
 | [0643-maximum-average-subarray-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -255,6 +256,7 @@ Leet Code
 | [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +432,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
+| [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
