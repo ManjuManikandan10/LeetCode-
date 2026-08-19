@@ -364,6 +364,7 @@ Leet Code
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +373,7 @@ Leet Code
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +540,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
