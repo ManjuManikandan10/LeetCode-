@@ -30,6 +30,7 @@ Leet Code
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
+| [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -76,6 +77,7 @@ Leet Code
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
