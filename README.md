@@ -19,6 +19,7 @@ Leet Code
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
@@ -210,6 +211,7 @@ Leet Code
 | [0018-4sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
