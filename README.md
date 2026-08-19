@@ -58,6 +58,7 @@ Leet Code
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
+| [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -132,6 +133,7 @@ Leet Code
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
