@@ -24,6 +24,7 @@ Leet Code
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
+| [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -68,6 +69,7 @@ Leet Code
 | [0219-contains-duplicate-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
+| [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
