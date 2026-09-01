@@ -621,4 +621,5 @@ Leet Code
 | [1115-print-foobar-alternately](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1117-building-h2o](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1117-building-h2o/) | Medium |
+| [1195-fizz-buzz-multithreaded](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
