@@ -310,6 +310,7 @@ Leet Code
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +425,7 @@ Leet Code
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +437,7 @@ Leet Code
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +562,7 @@ Leet Code
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -615,6 +619,7 @@ Leet Code
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
