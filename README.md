@@ -103,6 +103,7 @@ Leet Code
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -191,6 +192,7 @@ Leet Code
 | [0830-positions-of-large-groups](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -399,6 +401,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
