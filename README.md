@@ -49,6 +49,7 @@ Leet Code
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0896-monotonic-array/) | Easy |
+| [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -140,6 +141,7 @@ Leet Code
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
