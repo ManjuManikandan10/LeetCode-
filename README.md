@@ -57,6 +57,7 @@ Leet Code
 | [0941-valid-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -277,6 +278,7 @@ Leet Code
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -309,6 +311,7 @@ Leet Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
