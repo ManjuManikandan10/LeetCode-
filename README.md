@@ -216,6 +216,7 @@ Leet Code
 | [0929-unique-email-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -340,6 +341,7 @@ Leet Code
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -702,4 +704,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
