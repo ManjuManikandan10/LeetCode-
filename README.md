@@ -61,6 +61,7 @@ Leet Code
 | [0989-add-to-array-form-of-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
+| [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -288,6 +289,7 @@ Leet Code
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
