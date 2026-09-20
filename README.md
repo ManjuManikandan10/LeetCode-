@@ -228,6 +228,7 @@ Leet Code
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3707-equal-score-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3707-equal-score-substrings/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3798-largest-even-number/) | Easy |
@@ -554,6 +555,7 @@ Leet Code
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
