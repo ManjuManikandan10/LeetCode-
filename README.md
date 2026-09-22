@@ -21,6 +21,7 @@ Leet Code
 | [0219-contains-duplicate-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0275-h-index-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -266,6 +267,7 @@ Leet Code
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0275-h-index-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0275-h-index-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0441-arranging-coins/) | Easy |
