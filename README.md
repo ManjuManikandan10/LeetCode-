@@ -32,6 +32,7 @@ Leet Code
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0436-find-right-interval](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0436-find-right-interval/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
@@ -281,6 +282,7 @@ Leet Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0400-nth-digit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0400-nth-digit/) | Medium |
+| [0436-find-right-interval](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -354,6 +356,7 @@ Leet Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
+| [0436-find-right-interval](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0436-find-right-interval/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
