@@ -35,6 +35,7 @@ Leet Code
 | [0436-find-right-interval](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0447-number-of-boomerangs/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
@@ -174,6 +175,7 @@ Leet Code
 | [0400-nth-digit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0441-arranging-coins/) | Easy |
 | [0447-number-of-boomerangs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0447-number-of-boomerangs/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
