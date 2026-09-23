@@ -31,6 +31,7 @@ Leet Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
+| [0419-battleships-in-a-board](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
@@ -639,6 +640,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -680,6 +682,7 @@ Leet Code
 | [0289-game-of-life](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
