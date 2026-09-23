@@ -37,6 +37,7 @@ Leet Code
 | [0447-number-of-boomerangs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0454-4sum-ii/) | Medium |
+| [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0495-teemo-attacking/) | Easy |
@@ -125,6 +126,7 @@ Leet Code
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0454-4sum-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0454-4sum-ii/) | Medium |
+| [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -326,6 +328,7 @@ Leet Code
 | [0349-intersection-of-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0443-string-compression/) | Medium |
+| [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -567,6 +570,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
