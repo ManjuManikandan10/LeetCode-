@@ -117,6 +117,7 @@ Leet Code
 | [0349-intersection-of-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -212,6 +213,7 @@ Leet Code
 | [0214-shortest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
@@ -267,6 +269,7 @@ Leet Code
 | [0219-contains-duplicate-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
