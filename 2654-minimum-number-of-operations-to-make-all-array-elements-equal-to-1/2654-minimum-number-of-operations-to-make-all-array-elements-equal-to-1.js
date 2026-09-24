@@ -1,0 +1,1 @@
+const minOperations=t=>{const e=t.length,r=t.reduce(((t,e)=>t+ +(1===e)),0);if(r>0)return e-r;const n=(t,e)=>{for(;e;)[t,e]=[e,t%e];return t};let i=1/0;for(let r=0,o=Math.min;r<e;r++)for(let f=r+1,s=t[r];f<e;f++)if(1===(s=n(s,t[f]))){i=o(i,f-r);break}return isFinite(i)?i+e-1:-1};
