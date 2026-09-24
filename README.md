@@ -94,6 +94,7 @@ Leet Code
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -162,6 +163,7 @@ Leet Code
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -212,6 +214,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -685,6 +688,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -693,6 +697,7 @@ Leet Code
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -847,6 +852,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -862,6 +868,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -903,4 +910,16 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
