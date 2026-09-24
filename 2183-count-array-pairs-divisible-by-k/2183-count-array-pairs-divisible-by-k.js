@@ -1,0 +1,1 @@
+const countPairs=(t,o)=>{const n=(t,o)=>0===o?t:n(o,t%o),s=new Map;let e=0;for(const c of t){const t=n(c,o);for(const[n,c]of s.entries())t*n%o===0&&(e+=c);s.set(t,(s.get(t)||0)+1)}return e};
