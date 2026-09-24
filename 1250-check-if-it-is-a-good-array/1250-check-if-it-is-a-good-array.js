@@ -1,0 +1,1 @@
+const isGoodArray=o=>{let r=o[0];for(let t of o)for(;t;)[r,t]=[t,r%t];return 1===r};
