@@ -1,0 +1,1 @@
+const reachingPoints=(r,e,i,n)=>{for(;;){if(i===r&&n===e)return!0;if(i<r||n<e)return!1;if(i<=n){if(i===r&&n%i===e%r)return!0;n%=i}else{if(n===e&&i%n===r%e)return!0;i%=n}}};
