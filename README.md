@@ -215,6 +215,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -690,6 +691,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -831,6 +833,7 @@ Leet Code
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -855,6 +858,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -872,6 +876,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
