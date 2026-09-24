@@ -1,0 +1,1 @@
+const simplifiedFractions=e=>{let t=new Set,i=[];if(1==e)return[];let n=(r,s)=>{let l=r/s;r==e&&s==e||(l<1?(!t.has(l)&&i.push(r+"/"+s),t.add(l),r++):(s++,r=1),n(r,s))};return n(1,2),i};
