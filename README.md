@@ -84,6 +84,7 @@ Leet Code
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -165,6 +166,7 @@ Leet Code
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
