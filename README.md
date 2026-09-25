@@ -215,6 +215,7 @@ Leet Code
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
@@ -296,6 +297,7 @@ Leet Code
 | [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1078-occurrences-after-bigram/) | Easy |
+| [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
