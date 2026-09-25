@@ -220,6 +220,7 @@ Leet Code
 | [1103-distribute-candies-to-people](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
+| [1185-day-of-the-week](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1185-day-of-the-week/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
