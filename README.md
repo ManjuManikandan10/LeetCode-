@@ -81,6 +81,7 @@ Leet Code
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -162,6 +163,7 @@ Leet Code
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -298,6 +300,7 @@ Leet Code
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -555,6 +558,7 @@ Leet Code
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
