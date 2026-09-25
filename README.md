@@ -118,6 +118,7 @@ Leet Code
 | [3925-concatenate-array-with-reverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -525,6 +526,7 @@ Leet Code
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -727,6 +729,7 @@ Leet Code
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -792,6 +795,7 @@ Leet Code
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -799,6 +803,7 @@ Leet Code
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
