@@ -45,6 +45,7 @@ Leet Code
 | [0498-diagonal-traverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0517-super-washing-machines](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0517-super-washing-machines/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0565-array-nesting](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0565-array-nesting/) | Medium |
 | [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -149,6 +150,7 @@ Leet Code
 | [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 | [0500-keyboard-row](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -211,6 +213,7 @@ Leet Code
 | [0492-construct-the-rectangle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -521,6 +524,7 @@ Leet Code
 | [0238-product-of-array-except-self](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -970,4 +974,8 @@ Leet Code
 | ------- | ------- |
 | [1175-prime-arrangements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
