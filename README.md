@@ -250,6 +250,7 @@ Leet Code
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3870-count-commas-in-range/) | Easy |
@@ -461,6 +462,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
