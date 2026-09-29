@@ -188,6 +188,7 @@ Leet Code
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3803-count-residue-prefixes/) | Easy |
@@ -249,6 +250,7 @@ Leet Code
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -335,6 +337,7 @@ Leet Code
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3707-equal-score-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3707-equal-score-substrings/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3798-largest-even-number/) | Easy |
@@ -599,6 +602,7 @@ Leet Code
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
@@ -1016,4 +1020,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
