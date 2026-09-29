@@ -102,6 +102,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -414,6 +415,7 @@ Leet Code
 | [0010-regular-expression-matching](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -826,6 +828,7 @@ Leet Code
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -938,6 +941,7 @@ Leet Code
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
