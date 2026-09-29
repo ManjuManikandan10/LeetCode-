@@ -91,6 +91,7 @@ Leet Code
 | [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -457,6 +458,7 @@ Leet Code
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -567,6 +569,7 @@ Leet Code
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
