@@ -354,6 +354,7 @@ Leet Code
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3707-equal-score-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3707-equal-score-substrings/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3798-largest-even-number/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3803-count-residue-prefixes/) | Easy |
@@ -434,6 +435,7 @@ Leet Code
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -944,6 +946,7 @@ Leet Code
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
