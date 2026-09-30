@@ -109,6 +109,7 @@ Leet Code
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -490,6 +491,7 @@ Leet Code
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -776,6 +778,7 @@ Leet Code
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
