@@ -112,6 +112,7 @@ Leet Code
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -440,6 +441,7 @@ Leet Code
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -767,6 +769,7 @@ Leet Code
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
