@@ -103,6 +103,7 @@ Leet Code
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -459,6 +460,7 @@ Leet Code
 | [0011-container-with-most-water](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0517-super-washing-machines](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0517-super-washing-machines/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
