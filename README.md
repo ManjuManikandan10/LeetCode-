@@ -203,6 +203,7 @@ Leet Code
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -363,6 +364,7 @@ Leet Code
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -396,6 +398,7 @@ Leet Code
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
