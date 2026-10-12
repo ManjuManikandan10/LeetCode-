@@ -97,6 +97,7 @@ Leet Code
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1313-decompress-run-length-encoded-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
