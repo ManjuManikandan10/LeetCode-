@@ -95,6 +95,7 @@ Leet Code
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -271,6 +272,7 @@ Leet Code
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
