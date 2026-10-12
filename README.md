@@ -132,6 +132,7 @@ Leet Code
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -295,6 +296,7 @@ Leet Code
 | [2543-check-if-point-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
