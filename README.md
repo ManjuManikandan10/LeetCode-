@@ -280,6 +280,7 @@ Leet Code
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -380,6 +381,7 @@ Leet Code
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
