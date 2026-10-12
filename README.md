@@ -370,6 +370,7 @@ Leet Code
 | [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
