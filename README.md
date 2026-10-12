@@ -276,6 +276,7 @@ Leet Code
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -1011,6 +1012,7 @@ Leet Code
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
