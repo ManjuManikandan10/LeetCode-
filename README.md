@@ -384,6 +384,7 @@ Leet Code
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
