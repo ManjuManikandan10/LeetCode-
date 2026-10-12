@@ -266,6 +266,7 @@ Leet Code
 | [1175-prime-arrangements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
 | [1185-day-of-the-week](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1185-day-of-the-week/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
