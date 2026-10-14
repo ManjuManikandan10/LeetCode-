@@ -118,6 +118,7 @@ Leet Code
 | [1528-shuffle-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
