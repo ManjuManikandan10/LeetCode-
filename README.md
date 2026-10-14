@@ -416,6 +416,7 @@ Leet Code
 | [1446-consecutive-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1446-consecutive-characters/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1496-path-crossing](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1496-path-crossing/) | Easy |
+| [1507-reformat-date](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1507-reformat-date/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
