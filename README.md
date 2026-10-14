@@ -106,6 +106,7 @@ Leet Code
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -679,6 +680,7 @@ Leet Code
 | [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
