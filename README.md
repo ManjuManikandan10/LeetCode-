@@ -107,6 +107,7 @@ Leet Code
 | [1389-create-target-array-in-the-given-order](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -220,6 +221,7 @@ Leet Code
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
+| [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -404,6 +406,7 @@ Leet Code
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1417-reformat-the-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1417-reformat-the-string/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
