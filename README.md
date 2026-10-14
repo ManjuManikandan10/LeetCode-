@@ -228,6 +228,7 @@ Leet Code
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1496-path-crossing](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -414,6 +415,7 @@ Leet Code
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1446-consecutive-characters/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
+| [1496-path-crossing](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
