@@ -218,6 +218,7 @@ Leet Code
 | [1370-increasing-decreasing-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -291,6 +292,7 @@ Leet Code
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -727,6 +729,7 @@ Leet Code
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
