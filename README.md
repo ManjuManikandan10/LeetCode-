@@ -306,6 +306,7 @@ Leet Code
 | [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -890,6 +891,7 @@ Leet Code
 | [1103-distribute-candies-to-people](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
