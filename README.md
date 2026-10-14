@@ -108,6 +108,7 @@ Leet Code
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
