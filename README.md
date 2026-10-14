@@ -307,6 +307,7 @@ Leet Code
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
