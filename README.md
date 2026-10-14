@@ -146,6 +146,7 @@ Leet Code
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3731-find-missing-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -538,6 +539,7 @@ Leet Code
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +577,7 @@ Leet Code
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
