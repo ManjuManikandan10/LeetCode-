@@ -402,6 +402,7 @@ Leet Code
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1417-reformat-the-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1417-reformat-the-string/) | Easy |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
