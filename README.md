@@ -117,6 +117,7 @@ Leet Code
 | [1512-number-of-good-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -490,6 +491,7 @@ Leet Code
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
