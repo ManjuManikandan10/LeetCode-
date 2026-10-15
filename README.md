@@ -440,6 +440,7 @@ Leet Code
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1556-thousand-separator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1556-thousand-separator/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
+| [1592-rearrange-spaces-between-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
