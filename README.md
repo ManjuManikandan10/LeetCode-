@@ -121,6 +121,7 @@ Leet Code
 | [1539-kth-missing-positive-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -1046,6 +1047,7 @@ Leet Code
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
