@@ -120,6 +120,7 @@ Leet Code
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -908,6 +909,7 @@ Leet Code
 | [1389-create-target-array-in-the-given-order](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
