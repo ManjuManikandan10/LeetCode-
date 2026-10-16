@@ -139,6 +139,7 @@ Leet Code
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
@@ -259,6 +260,7 @@ Leet Code
 | [1636-sort-array-by-increasing-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -464,6 +466,7 @@ Leet Code
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -805,6 +808,7 @@ Leet Code
 | [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1143,6 +1147,7 @@ Leet Code
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
