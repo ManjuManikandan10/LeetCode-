@@ -469,6 +469,7 @@ Leet Code
 | [1678-goal-parser-interpretation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1694-reformat-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1694-reformat-phone-number/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -811,6 +812,7 @@ Leet Code
 | [1512-number-of-good-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
