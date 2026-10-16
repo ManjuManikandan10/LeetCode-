@@ -339,6 +339,7 @@ Leet Code
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
