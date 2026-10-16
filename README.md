@@ -134,6 +134,7 @@ Leet Code
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -494,6 +495,7 @@ Leet Code
 | [0643-maximum-average-subarray-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
