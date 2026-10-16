@@ -141,6 +141,7 @@ Leet Code
 | [1672-richest-customer-wealth](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1720-decode-xored-array/) | Easy |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
