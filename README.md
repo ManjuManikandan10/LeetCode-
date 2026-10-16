@@ -136,6 +136,7 @@ Leet Code
 | [1646-get-maximum-in-generated-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -460,6 +461,7 @@ Leet Code
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
