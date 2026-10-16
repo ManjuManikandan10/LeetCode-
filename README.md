@@ -128,6 +128,7 @@ Leet Code
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -451,6 +452,7 @@ Leet Code
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
