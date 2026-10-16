@@ -127,6 +127,7 @@ Leet Code
 | [1590-make-sum-divisible-by-p](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
@@ -622,6 +623,7 @@ Leet Code
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
