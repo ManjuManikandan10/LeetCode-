@@ -338,6 +338,7 @@ Leet Code
 | [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -954,6 +955,7 @@ Leet Code
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
