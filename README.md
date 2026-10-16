@@ -131,6 +131,7 @@ Leet Code
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -631,6 +632,7 @@ Leet Code
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
