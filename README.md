@@ -263,6 +263,7 @@ Leet Code
 | [1640-check-array-formation-through-concatenation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -342,6 +343,7 @@ Leet Code
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -816,6 +818,7 @@ Leet Code
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
