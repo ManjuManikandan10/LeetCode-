@@ -197,6 +197,7 @@ Leet Code
 | [3925-concatenate-array-with-reverse](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
