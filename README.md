@@ -498,6 +498,7 @@ Leet Code
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3921-score-validator/) | Easy |
