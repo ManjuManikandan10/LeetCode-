@@ -190,6 +190,7 @@ Leet Code
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3912-valid-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -373,6 +374,7 @@ Leet Code
 | [3871-count-commas-in-range-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3894-traffic-signal-color](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3945-digit-frequency-score/) | Easy |
@@ -668,6 +670,7 @@ Leet Code
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1184,6 +1187,7 @@ Leet Code
 | [3827-count-monobit-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3833-count-dominant-indices/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
