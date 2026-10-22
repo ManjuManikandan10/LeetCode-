@@ -314,6 +314,7 @@ Leet Code
 | [0447-number-of-boomerangs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
@@ -1180,6 +1181,7 @@ Leet Code
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
