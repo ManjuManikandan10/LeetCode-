@@ -27,6 +27,7 @@ Leet Code
 | [0289-game-of-life](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0330-patching-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0330-patching-array/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
@@ -614,6 +615,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0330-patching-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0330-patching-array/) | Hard |
 | [0517-super-washing-machines](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0517-super-washing-machines/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
