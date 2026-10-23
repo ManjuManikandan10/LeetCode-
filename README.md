@@ -857,6 +857,7 @@ Leet Code
 | [0450-delete-node-in-a-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -879,6 +880,7 @@ Leet Code
 | [0450-delete-node-in-a-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -1060,6 +1062,7 @@ Leet Code
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0565-array-nesting](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0565-array-nesting/) | Medium |
@@ -1160,6 +1163,7 @@ Leet Code
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
