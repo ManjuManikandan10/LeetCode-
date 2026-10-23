@@ -317,6 +317,7 @@ Leet Code
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0483-smallest-good-base](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0483-smallest-good-base/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
@@ -538,6 +539,7 @@ Leet Code
 | [0400-nth-digit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0400-nth-digit/) | Medium |
 | [0436-find-right-interval](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0441-arranging-coins/) | Easy |
+| [0483-smallest-good-base](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0483-smallest-good-base/) | Hard |
 | [0493-reverse-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
