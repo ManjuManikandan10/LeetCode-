@@ -433,6 +433,7 @@ Leet Code
 | [0591-tag-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0591-tag-validator/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
 | [0709-to-lower-case](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
@@ -874,6 +875,7 @@ Leet Code
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -895,6 +897,7 @@ Leet Code
 | [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -1080,6 +1083,7 @@ Leet Code
 | [0565-array-nesting](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0565-array-nesting/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
