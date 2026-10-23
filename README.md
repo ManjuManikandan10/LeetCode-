@@ -326,6 +326,7 @@ Leet Code
 | [0507-perfect-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -423,6 +424,7 @@ Leet Code
 | [0537-complex-number-multiplication](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -587,6 +589,7 @@ Leet Code
 | [0457-circular-array-loop](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0457-circular-array-loop/) | Medium |
 | [0481-magical-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
