@@ -51,6 +51,7 @@ Leet Code
 | [0525-contiguous-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0554-brick-wall](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0554-brick-wall/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0565-array-nesting/) | Medium |
 | [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -233,6 +234,7 @@ Leet Code
 | [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0525-contiguous-array/) | Medium |
 | [0554-brick-wall](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0554-brick-wall/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -782,6 +784,7 @@ Leet Code
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
