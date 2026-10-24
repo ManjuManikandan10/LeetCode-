@@ -61,6 +61,7 @@ Leet Code
 | [0643-maximum-average-subarray-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
@@ -247,6 +248,7 @@ Leet Code
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -650,6 +652,7 @@ Leet Code
 | [0517-super-washing-machines](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0517-super-washing-machines/) | Hard |
 | [0630-course-schedule-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -835,6 +838,7 @@ Leet Code
 | [0630-course-schedule-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
