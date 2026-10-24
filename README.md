@@ -927,6 +927,7 @@ Leet Code
 | [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 | [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -952,6 +953,7 @@ Leet Code
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -1241,6 +1243,7 @@ Leet Code
 | [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0938-range-sum-of-bst/) | Easy |
