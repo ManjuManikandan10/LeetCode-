@@ -922,6 +922,7 @@ Leet Code
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -946,6 +947,7 @@ Leet Code
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -1135,6 +1137,7 @@ Leet Code
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -1242,6 +1245,7 @@ Leet Code
 | [0508-most-frequent-subtree-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
