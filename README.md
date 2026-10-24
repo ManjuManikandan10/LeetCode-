@@ -912,6 +912,7 @@ Leet Code
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -935,6 +936,7 @@ Leet Code
 | [0563-binary-tree-tilt](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -1122,6 +1124,7 @@ Leet Code
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
@@ -1218,6 +1221,7 @@ Leet Code
 | [0450-delete-node-in-a-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
