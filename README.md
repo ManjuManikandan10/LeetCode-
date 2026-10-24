@@ -59,6 +59,7 @@ Leet Code
 | [0630-course-schedule-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
@@ -243,6 +244,7 @@ Leet Code
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -442,6 +444,7 @@ Leet Code
 | [0606-construct-string-from-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
+| [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0709-to-lower-case](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -659,6 +662,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
