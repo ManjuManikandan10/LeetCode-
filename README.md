@@ -74,6 +74,7 @@ Leet Code
 | [0713-subarray-product-less-than-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0722-remove-comments](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0722-remove-comments/) | Medium |
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
@@ -463,6 +464,7 @@ Leet Code
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0709-to-lower-case](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
+| [0722-remove-comments](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0722-remove-comments/) | Medium |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
