@@ -64,6 +64,7 @@ Leet Code
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0661-image-smoother](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0665-non-decreasing-array/) | Medium |
+| [0667-beautiful-arrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
@@ -345,6 +346,7 @@ Leet Code
 | [0592-fraction-addition-and-subtraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
+| [0667-beautiful-arrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
