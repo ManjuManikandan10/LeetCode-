@@ -348,6 +348,7 @@ Leet Code
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -658,6 +659,7 @@ Leet Code
 | [0630-course-schedule-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
