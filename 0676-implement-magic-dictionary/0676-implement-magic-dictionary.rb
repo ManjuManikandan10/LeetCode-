@@ -23,8 +23,3 @@ class MagicDictionary
 
 
 end
-
-# Your MagicDictionary object will be instantiated and called as such:
-# obj = MagicDictionary.new()
-# obj.build_dict(dictionary)
-# param_2 = obj.search(search_word)
