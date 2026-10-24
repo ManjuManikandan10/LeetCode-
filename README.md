@@ -66,6 +66,7 @@ Leet Code
 | [0665-non-decreasing-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0665-non-decreasing-array/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
@@ -350,6 +351,7 @@ Leet Code
 | [0667-beautiful-arrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
+| [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -734,6 +736,7 @@ Leet Code
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
