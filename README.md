@@ -251,6 +251,7 @@ Leet Code
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -454,6 +455,7 @@ Leet Code
 | [0609-find-duplicate-file-in-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0709-to-lower-case](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -678,6 +680,7 @@ Leet Code
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0648-replace-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0648-replace-words/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1128,6 +1131,7 @@ Leet Code
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -1207,6 +1211,7 @@ Leet Code
 | [0303-range-sum-query-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
