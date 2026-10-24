@@ -68,6 +68,7 @@ Leet Code
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
+| [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -253,6 +254,7 @@ Leet Code
 | [0652-find-duplicate-subtrees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -923,6 +925,7 @@ Leet Code
 | [0669-trim-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
+| [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -1138,6 +1141,7 @@ Leet Code
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0687-longest-univalue-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0687-longest-univalue-path/) | Medium |
+| [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -1156,6 +1160,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0463-island-perimeter/) | Easy |
+| [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
