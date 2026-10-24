@@ -259,6 +259,7 @@ Leet Code
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0690-employee-importance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -465,6 +466,7 @@ Leet Code
 | [0676-implement-magic-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0709-to-lower-case](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [0722-remove-comments](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0722-remove-comments/) | Medium |
+| [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -712,6 +714,7 @@ Leet Code
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -762,6 +765,7 @@ Leet Code
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0591-tag-validator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0591-tag-validator/) | Hard |
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
+| [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
