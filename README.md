@@ -84,6 +84,7 @@ Leet Code
 | [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0775-global-and-local-inversions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -373,6 +374,7 @@ Leet Code
 | [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
+| [0775-global-and-local-inversions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
