@@ -363,6 +363,7 @@ Leet Code
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
+| [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -686,6 +687,7 @@ Leet Code
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
