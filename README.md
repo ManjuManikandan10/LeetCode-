@@ -82,6 +82,7 @@ Leet Code
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0749-contain-virus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0749-contain-virus/) | Hard |
 | [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
+| [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -694,6 +695,7 @@ Leet Code
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -733,6 +735,7 @@ Leet Code
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
+| [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
