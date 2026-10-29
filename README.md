@@ -81,6 +81,7 @@ Leet Code
 | [0735-asteroid-collision](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0735-asteroid-collision/) | Medium |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
 | [0749-contain-virus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0749-contain-virus/) | Hard |
+| [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -267,6 +268,7 @@ Leet Code
 | [0697-degree-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
+| [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -475,6 +477,7 @@ Leet Code
 | [0722-remove-comments](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0722-remove-comments/) | Medium |
 | [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0748-shortest-completing-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0748-shortest-completing-word/) | Easy |
+| [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -1209,6 +1212,7 @@ Leet Code
 | [0733-flood-fill](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0749-contain-virus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0749-contain-virus/) | Hard |
+| [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -1455,4 +1459,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0640-solve-the-equation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0640-solve-the-equation/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
