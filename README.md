@@ -367,6 +367,7 @@ Leet Code
 | [0670-maximum-swap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0670-maximum-swap/) | Medium |
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -605,6 +606,7 @@ Leet Code
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
+| [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
