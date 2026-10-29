@@ -491,6 +491,7 @@ Leet Code
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
@@ -666,6 +667,7 @@ Leet Code
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
