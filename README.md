@@ -110,6 +110,7 @@ Leet Code
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -1092,6 +1093,7 @@ Leet Code
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -1179,6 +1181,7 @@ Leet Code
 | [0938-range-sum-of-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1197,6 +1200,7 @@ Leet Code
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1219,6 +1223,7 @@ Leet Code
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
