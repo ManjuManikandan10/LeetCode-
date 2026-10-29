@@ -272,6 +272,7 @@ Leet Code
 | [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -371,6 +372,7 @@ Leet Code
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0738-monotone-increasing-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -437,6 +439,7 @@ Leet Code
 | [0021-merge-two-sorted-lists](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0394-decode-string/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -484,6 +487,7 @@ Leet Code
 | [0752-open-the-lock](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -796,6 +800,7 @@ Leet Code
 | [0682-baseball-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0682-baseball-game/) | Easy |
 | [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0735-asteroid-collision](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0735-asteroid-collision/) | Medium |
+| [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
