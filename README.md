@@ -86,6 +86,7 @@ Leet Code
 | [0766-toeplitz-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -622,6 +623,7 @@ Leet Code
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
 | [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -671,6 +673,7 @@ Leet Code
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
@@ -756,6 +759,7 @@ Leet Code
 | [0726-number-of-atoms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0726-number-of-atoms/) | Hard |
 | [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -915,6 +919,7 @@ Leet Code
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0743-network-delay-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
