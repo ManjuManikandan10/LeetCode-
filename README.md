@@ -237,6 +237,7 @@ Leet Code
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -363,6 +364,7 @@ Leet Code
 | [3803-count-residue-prefixes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3866-first-unique-even-element/) | Easy |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3945-digit-frequency-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3945-digit-frequency-score/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -1232,6 +1234,7 @@ Leet Code
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
