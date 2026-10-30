@@ -99,6 +99,7 @@ Leet Code
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
@@ -290,6 +291,7 @@ Leet Code
 | [0811-subdomain-visit-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
+| [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
