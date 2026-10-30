@@ -191,6 +191,7 @@ Leet Code
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -678,6 +679,7 @@ Leet Code
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1218,6 +1220,7 @@ Leet Code
 | [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
@@ -1325,6 +1328,7 @@ Leet Code
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -1357,6 +1361,7 @@ Leet Code
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
@@ -1392,6 +1397,7 @@ Leet Code
 | [1672-richest-customer-wealth](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
