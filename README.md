@@ -512,6 +512,7 @@ Leet Code
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0809-expressive-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0809-expressive-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0824-goat-latin/) | Easy |
@@ -817,6 +818,7 @@ Leet Code
 | [0093-restore-ip-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -1391,6 +1393,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
