@@ -395,6 +395,7 @@ Leet Code
 | [0781-rabbits-in-forest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
@@ -1405,6 +1406,7 @@ Leet Code
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
