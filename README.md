@@ -171,6 +171,7 @@ Leet Code
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -431,6 +432,7 @@ Leet Code
 | [1518-water-bottles](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -1212,6 +1214,7 @@ Leet Code
 | [1267-count-servers-that-communicate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -1227,6 +1230,7 @@ Leet Code
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1447-simplified-fractions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1447-simplified-fractions/) | Medium |
+| [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
