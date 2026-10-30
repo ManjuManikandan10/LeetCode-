@@ -117,6 +117,7 @@ Leet Code
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -305,6 +306,7 @@ Leet Code
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -1189,6 +1191,7 @@ Leet Code
 | [0128-longest-consecutive-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1282,6 +1285,7 @@ Leet Code
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -1304,6 +1308,7 @@ Leet Code
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0841-keys-and-rooms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0841-keys-and-rooms/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -1333,6 +1338,7 @@ Leet Code
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -1561,4 +1567,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+## Planar Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 <!---LeetCode Topics End-->
