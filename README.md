@@ -89,6 +89,7 @@ Leet Code
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -682,6 +683,7 @@ Leet Code
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
