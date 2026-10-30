@@ -216,6 +216,7 @@ Leet Code
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -455,6 +456,7 @@ Leet Code
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -1240,6 +1242,7 @@ Leet Code
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
@@ -1351,6 +1354,7 @@ Leet Code
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -1383,6 +1387,7 @@ Leet Code
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1640,4 +1645,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 <!---LeetCode Topics End-->
