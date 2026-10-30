@@ -691,6 +691,7 @@ Leet Code
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -850,6 +851,7 @@ Leet Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3731-find-missing-elements/) | Easy |
@@ -1237,6 +1239,7 @@ Leet Code
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 ## Number Theory
@@ -1287,6 +1290,7 @@ Leet Code
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Directed Acyclic Graph
