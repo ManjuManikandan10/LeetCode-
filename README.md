@@ -384,6 +384,7 @@ Leet Code
 | [0780-reaching-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0780-reaching-points/) | Hard |
 | [0781-rabbits-in-forest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0789-escape-the-ghosts/) | Medium |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
@@ -630,6 +631,7 @@ Leet Code
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
 | [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
