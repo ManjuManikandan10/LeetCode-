@@ -129,6 +129,7 @@ Leet Code
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -312,6 +313,7 @@ Leet Code
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -553,6 +555,7 @@ Leet Code
 | [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -810,6 +813,7 @@ Leet Code
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -1199,6 +1203,7 @@ Leet Code
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1297,6 +1302,7 @@ Leet Code
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1322,6 +1328,7 @@ Leet Code
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
