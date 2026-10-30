@@ -547,6 +547,7 @@ Leet Code
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1078-occurrences-after-bigram](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1154-day-of-the-year](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1154-day-of-the-year/) | Easy |
@@ -1197,6 +1198,7 @@ Leet Code
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
