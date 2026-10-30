@@ -93,6 +93,7 @@ Leet Code
 | [0798-smallest-rotation-with-highest-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -729,6 +730,7 @@ Leet Code
 | [0763-partition-labels](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -1289,6 +1291,7 @@ Leet Code
 | [0749-contain-virus](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0749-contain-virus/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
