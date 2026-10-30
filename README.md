@@ -204,6 +204,7 @@ Leet Code
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -1239,6 +1240,7 @@ Leet Code
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2157-groups-of-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2157-groups-of-strings/) | Hard |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1353,6 +1355,7 @@ Leet Code
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -1386,6 +1389,7 @@ Leet Code
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 ## Matrix
@@ -1423,6 +1427,7 @@ Leet Code
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Shortest Path
