@@ -90,6 +90,7 @@ Leet Code
 | [0789-escape-the-ghosts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
@@ -904,6 +905,7 @@ Leet Code
 | [0724-find-pivot-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
