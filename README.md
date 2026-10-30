@@ -100,6 +100,7 @@ Leet Code
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
@@ -643,6 +644,7 @@ Leet Code
 | [0754-reach-a-number](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -696,6 +698,7 @@ Leet Code
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0809-expressive-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0809-expressive-words/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
@@ -783,6 +786,7 @@ Leet Code
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0791-custom-sort-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
