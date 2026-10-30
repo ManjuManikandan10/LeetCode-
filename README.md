@@ -1208,6 +1208,7 @@ Leet Code
 | [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -1252,6 +1253,7 @@ Leet Code
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1308,6 +1310,7 @@ Leet Code
 | [1202-smallest-string-with-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1336,6 +1339,7 @@ Leet Code
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
