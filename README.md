@@ -104,6 +104,7 @@ Leet Code
 | [0826-most-profit-assigning-work](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0896-monotonic-array/) | Easy |
@@ -296,6 +297,7 @@ Leet Code
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -398,6 +400,7 @@ Leet Code
 | [0789-escape-the-ghosts](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
@@ -1321,6 +1324,7 @@ Leet Code
 | [0794-valid-tic-tac-toe-state](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
