@@ -279,6 +279,7 @@ Leet Code
 | [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0791-custom-sort-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
@@ -498,6 +499,7 @@ Leet Code
 | [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0771-jewels-and-stones](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0791-custom-sort-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
@@ -763,6 +765,7 @@ Leet Code
 | [0757-set-intersection-size-at-least-two](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0791-custom-sort-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
