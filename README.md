@@ -102,6 +102,7 @@ Leet Code
 | [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0835-image-overlap](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
@@ -294,6 +295,7 @@ Leet Code
 | [0815-bus-routes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
 | [0822-card-flipping-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0822-card-flipping-game/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -522,6 +524,7 @@ Leet Code
 | [0821-shortest-distance-to-a-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0824-goat-latin/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0830-positions-of-large-groups/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
@@ -793,6 +796,7 @@ Leet Code
 | [0791-custom-sort-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
