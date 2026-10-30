@@ -120,6 +120,7 @@ Leet Code
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
@@ -541,6 +542,7 @@ Leet Code
 | [0929-unique-email-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1192,6 +1194,7 @@ Leet Code
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1234,6 +1237,7 @@ Leet Code
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
