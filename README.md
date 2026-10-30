@@ -201,6 +201,7 @@ Leet Code
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
@@ -904,6 +905,7 @@ Leet Code
 | [1544-make-the-string-great](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1251,6 +1253,7 @@ Leet Code
 | [2076-process-restricted-friend-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2157-groups-of-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2157-groups-of-strings/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
@@ -1674,4 +1677,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 <!---LeetCode Topics End-->
