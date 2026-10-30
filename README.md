@@ -123,6 +123,7 @@ Leet Code
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
+| [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1089-duplicate-zeros](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1089-duplicate-zeros/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -1195,6 +1196,7 @@ Leet Code
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1292,6 +1294,7 @@ Leet Code
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1315,6 +1318,7 @@ Leet Code
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -1344,6 +1348,7 @@ Leet Code
 | [0867-transpose-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0867-transpose-matrix/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1020-number-of-enclaves](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
