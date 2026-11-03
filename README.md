@@ -232,6 +232,7 @@ Leet Code
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -773,6 +774,7 @@ Leet Code
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -1460,6 +1462,7 @@ Leet Code
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Shortest Path
