@@ -1174,6 +1174,7 @@ Leet Code
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -1197,6 +1198,7 @@ Leet Code
 | [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 ## Treap
@@ -1540,6 +1542,7 @@ Leet Code
 | [1348-tweet-counts-per-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
