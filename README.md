@@ -224,6 +224,7 @@ Leet Code
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -734,6 +735,7 @@ Leet Code
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
@@ -1226,6 +1228,7 @@ Leet Code
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
