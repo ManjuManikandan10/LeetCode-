@@ -186,6 +186,7 @@ Leet Code
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1720-decode-xored-array/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
@@ -807,6 +808,7 @@ Leet Code
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -1029,6 +1031,7 @@ Leet Code
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -1174,6 +1177,7 @@ Leet Code
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
