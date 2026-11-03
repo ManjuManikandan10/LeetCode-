@@ -243,6 +243,7 @@ Leet Code
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -396,6 +397,7 @@ Leet Code
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -747,6 +749,7 @@ Leet Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 ## Divide and Conquer
@@ -1248,6 +1251,7 @@ Leet Code
 | [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1597,6 +1601,7 @@ Leet Code
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1727,6 +1732,7 @@ Leet Code
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
+| [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
