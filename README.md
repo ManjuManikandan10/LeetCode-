@@ -197,6 +197,7 @@ Leet Code
 | [1847-closest-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1847-closest-room/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -361,6 +362,7 @@ Leet Code
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2157-groups-of-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2157-groups-of-strings/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -1038,6 +1040,7 @@ Leet Code
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
+| [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -1186,6 +1189,7 @@ Leet Code
 | [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
 | [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1847-closest-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1847-closest-room/) | Hard |
+| [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
@@ -1529,6 +1533,7 @@ Leet Code
 | [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1348-tweet-counts-per-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
+| [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
