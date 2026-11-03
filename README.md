@@ -192,6 +192,7 @@ Leet Code
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
@@ -709,6 +710,7 @@ Leet Code
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -870,6 +872,7 @@ Leet Code
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -1178,6 +1181,7 @@ Leet Code
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
+| [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
