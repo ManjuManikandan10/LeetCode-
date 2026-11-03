@@ -153,6 +153,7 @@ Leet Code
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -659,6 +660,7 @@ Leet Code
 | [0658-find-k-closest-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -1022,6 +1024,7 @@ Leet Code
 | [0855-exam-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0855-exam-room/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
@@ -1167,6 +1170,7 @@ Leet Code
 | [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1348-tweet-counts-per-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
@@ -1638,10 +1642,12 @@ Leet Code
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
