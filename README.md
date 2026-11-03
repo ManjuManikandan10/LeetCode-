@@ -241,6 +241,7 @@ Leet Code
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -743,6 +744,7 @@ Leet Code
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 ## Divide and Conquer
@@ -1206,6 +1208,7 @@ Leet Code
 | [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
@@ -1240,6 +1243,7 @@ Leet Code
 | [3092-most-frequent-ids](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3092-most-frequent-ids/) | Medium |
 | [3102-minimize-manhattan-distances](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3102-minimize-manhattan-distances/) | Hard |
 | [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1315,6 +1319,7 @@ Leet Code
 | [1646-get-maximum-in-generated-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3813-vowel-consonant-score/) | Easy |
