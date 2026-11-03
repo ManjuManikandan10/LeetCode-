@@ -392,6 +392,7 @@ Leet Code
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3092-most-frequent-ids](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3092-most-frequent-ids/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -1078,6 +1079,7 @@ Leet Code
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [3092-most-frequent-ids](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3092-most-frequent-ids/) | Medium |
+| [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Merge Sort
@@ -1237,6 +1239,7 @@ Leet Code
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3092-most-frequent-ids](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3092-most-frequent-ids/) | Medium |
 | [3102-minimize-manhattan-distances](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3102-minimize-manhattan-distances/) | Hard |
+| [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1584,6 +1587,7 @@ Leet Code
 | [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
