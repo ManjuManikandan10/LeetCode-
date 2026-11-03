@@ -368,6 +368,7 @@ Leet Code
 | [2183-count-array-pairs-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -1051,6 +1052,7 @@ Leet Code
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -1202,6 +1204,7 @@ Leet Code
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 ## Treap
@@ -1547,6 +1550,7 @@ Leet Code
 | [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
