@@ -150,6 +150,7 @@ Leet Code
 | [1389-create-target-array-in-the-given-order](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -341,6 +342,7 @@ Leet Code
 | [1386-cinema-seat-allocation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1399-count-largest-group/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -591,6 +593,7 @@ Leet Code
 | [1392-longest-happy-prefix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1417-reformat-the-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1417-reformat-the-string/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1446-consecutive-characters/) | Easy |
@@ -853,6 +856,7 @@ Leet Code
 | [1346-check-if-n-and-its-double-exist](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1348-tweet-counts-per-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -1162,6 +1166,7 @@ Leet Code
 | [0855-exam-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0855-exam-room/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1348-tweet-counts-per-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1348-tweet-counts-per-frequency/) | Medium |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
