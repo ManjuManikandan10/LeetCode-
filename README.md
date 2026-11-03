@@ -221,6 +221,7 @@ Leet Code
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -377,6 +378,7 @@ Leet Code
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -729,6 +731,7 @@ Leet Code
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
@@ -798,6 +801,7 @@ Leet Code
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -896,6 +900,7 @@ Leet Code
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1216,6 +1221,7 @@ Leet Code
 | [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1524,6 +1530,7 @@ Leet Code
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
@@ -1765,4 +1772,8 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
