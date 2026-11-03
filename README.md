@@ -242,6 +242,7 @@ Leet Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -745,6 +746,7 @@ Leet Code
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3608-minimum-time-for-k-connected-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3613-minimize-maximum-component-cost](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3613-minimize-maximum-component-cost/) | Medium |
 ## Divide and Conquer
@@ -1209,6 +1211,7 @@ Leet Code
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
@@ -1244,6 +1247,7 @@ Leet Code
 | [3102-minimize-manhattan-distances](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3102-minimize-manhattan-distances/) | Hard |
 | [3408-design-task-manager](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3408-design-task-manager/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
