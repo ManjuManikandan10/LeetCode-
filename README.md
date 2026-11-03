@@ -212,6 +212,7 @@ Leet Code
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
+| [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
@@ -371,6 +372,7 @@ Leet Code
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
+| [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -892,6 +894,7 @@ Leet Code
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1210,6 +1213,7 @@ Leet Code
 | [2336-smallest-number-in-infinite-set](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
+| [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 ## Treap
