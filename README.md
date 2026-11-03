@@ -320,6 +320,7 @@ Leet Code
 | [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0929-unique-email-addresses/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -901,6 +902,7 @@ Leet Code
 | [0770-basic-calculator-iv](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0770-basic-calculator-iv/) | Hard |
 | [0844-backspace-string-compare](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0856-score-of-parentheses/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0897-increasing-order-search-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -1154,6 +1156,7 @@ Leet Code
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
 | [0855-exam-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0855-exam-room/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
@@ -1493,6 +1496,7 @@ Leet Code
 | [0731-my-calendar-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0732-my-calendar-iii/) | Hard |
 | [0855-exam-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0855-exam-room/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1603-design-parking-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1603-design-parking-system/) | Easy |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
