@@ -249,6 +249,7 @@ Leet Code
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
@@ -400,6 +401,7 @@ Leet Code
 | [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -508,6 +510,7 @@ Leet Code
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -1216,6 +1219,7 @@ Leet Code
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -1252,6 +1256,7 @@ Leet Code
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1394,6 +1399,7 @@ Leet Code
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
