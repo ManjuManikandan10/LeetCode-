@@ -250,6 +250,7 @@ Leet Code
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
@@ -1170,6 +1171,7 @@ Leet Code
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1257,6 +1259,7 @@ Leet Code
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3569-maximize-count-of-distinct-primes-after-split/) | Hard |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1492,6 +1495,7 @@ Leet Code
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
