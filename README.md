@@ -222,6 +222,7 @@ Leet Code
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -681,6 +682,7 @@ Leet Code
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1067,6 +1069,7 @@ Leet Code
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/ManjuManikandan10/LeetCode-/tree/main/4046-minimum-cost-path-with-at-most-k-turns/) | Hard |
 ## Merge Sort
@@ -1222,6 +1225,7 @@ Leet Code
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1698,11 +1702,13 @@ Leet Code
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
