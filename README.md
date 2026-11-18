@@ -652,6 +652,7 @@ Leet Code
 | [2157-groups-of-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2157-groups-of-strings/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2353-design-a-food-rating-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1338,6 +1339,7 @@ Leet Code
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1646-get-maximum-in-generated-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
