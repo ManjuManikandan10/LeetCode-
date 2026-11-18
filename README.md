@@ -195,6 +195,7 @@ Leet Code
 | [1818-minimum-absolute-sum-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1818-minimum-absolute-sum-difference/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1847-closest-room](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1847-closest-room/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
 | [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
@@ -1095,6 +1096,7 @@ Leet Code
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1675-minimize-deviation-in-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1675-minimize-deviation-in-array/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1912-design-movie-rental-system](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
