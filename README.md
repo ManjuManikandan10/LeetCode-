@@ -236,6 +236,7 @@ Leet Code
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3092-most-frequent-ids](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3092-most-frequent-ids/) | Medium |
 | [3102-minimize-manhattan-distances](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3102-minimize-manhattan-distances/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
