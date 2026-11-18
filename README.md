@@ -223,6 +223,7 @@ Leet Code
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
@@ -393,6 +394,7 @@ Leet Code
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2612-minimum-reverse-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2612-minimum-reverse-operations/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -705,6 +707,7 @@ Leet Code
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -936,6 +939,7 @@ Leet Code
 | [2363-merge-similar-items](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2503-maximum-number-of-points-from-grid-queries/) | Hard |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
