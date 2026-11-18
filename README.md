@@ -241,6 +241,7 @@ Leet Code
 | [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
@@ -705,6 +706,7 @@ Leet Code
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -980,6 +982,7 @@ Leet Code
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1226,6 +1229,7 @@ Leet Code
 | [2276-count-integers-in-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2276-count-integers-in-intervals/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -1751,6 +1755,7 @@ Leet Code
 | [0341-flatten-nested-list-iterator](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3508-implement-router](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3508-implement-router/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -1758,6 +1763,7 @@ Leet Code
 | [0239-sliding-window-maximum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2762-continuous-subarrays](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1828,6 +1834,7 @@ Leet Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
