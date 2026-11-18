@@ -256,6 +256,7 @@ Leet Code
 | [3590-kth-smallest-path-xor-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3697-compute-decimal-representation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -837,6 +838,7 @@ Leet Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
