@@ -238,6 +238,7 @@ Leet Code
 | [3102-minimize-manhattan-distances](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3102-minimize-manhattan-distances/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3235-check-if-the-rectangle-corner-is-reachable/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -703,6 +704,7 @@ Leet Code
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1057,6 +1059,7 @@ Leet Code
 | [1732-find-the-highest-altitude](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2251-number-of-flowers-in-full-bloom/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2382-maximum-segment-sum-after-removals/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3707-equal-score-substrings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3707-equal-score-substrings/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
