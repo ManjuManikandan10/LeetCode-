@@ -348,6 +348,7 @@ Leet Code
 | [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -473,6 +474,7 @@ Leet Code
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
@@ -919,6 +921,7 @@ Leet Code
 | [0825-friends-of-appropriate-ages](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -1146,6 +1149,7 @@ Leet Code
 | [0767-reorganize-string](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0819-most-common-word](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0819-most-common-word/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0912-sort-an-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -1698,6 +1702,7 @@ Leet Code
 | [0479-largest-palindrome-product](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
