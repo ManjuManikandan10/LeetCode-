@@ -175,6 +175,7 @@ Leet Code
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -1715,6 +1716,7 @@ Leet Code
 | [0970-powerful-integers](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0970-powerful-integers/) | Medium |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
