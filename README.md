@@ -115,6 +115,7 @@ Leet Code
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0949-largest-time-for-given-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -620,6 +621,7 @@ Leet Code
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0949-largest-time-for-given-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1002-find-common-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1002-find-common-characters/) | Easy |
@@ -978,6 +980,7 @@ Leet Code
 | [0679-24-game](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0679-24-game/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -1706,6 +1709,7 @@ Leet Code
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0906-super-palindromes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0906-super-palindromes/) | Hard |
+| [0949-largest-time-for-given-digits](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
