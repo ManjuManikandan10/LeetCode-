@@ -665,6 +665,7 @@ Leet Code
 | [1598-crawler-log-folder](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1629-slowest-key](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -1533,6 +1534,7 @@ Leet Code
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
@@ -1570,6 +1572,7 @@ Leet Code
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1905-count-sub-islands/) | Medium |
@@ -1717,6 +1720,7 @@ Leet Code
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1620-coordinate-with-maximum-network-quality/) | Medium |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1625-lexicographically-smallest-string-after-applying-operations/) | Medium |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
