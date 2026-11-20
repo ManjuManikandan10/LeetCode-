@@ -475,6 +475,7 @@ Leet Code
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0840-magic-squares-in-grid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
+| [0906-super-palindromes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0906-super-palindromes/) | Hard |
 | [0908-smallest-range-i](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0932-beautiful-array](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0932-beautiful-array/) | Medium |
@@ -613,6 +614,7 @@ Leet Code
 | [0856-score-of-parentheses](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0906-super-palindromes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0906-super-palindromes/) | Hard |
 | [0917-reverse-only-letters](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0925-long-pressed-name/) | Easy |
@@ -1703,6 +1705,7 @@ Leet Code
 | [0816-ambiguous-coordinates](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0869-reordered-power-of-2/) | Medium |
+| [0906-super-palindromes](https://github.com/ManjuManikandan10/LeetCode-/tree/main/0906-super-palindromes/) | Hard |
 | [1534-count-good-triplets](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1534-count-good-triplets/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ManjuManikandan10/LeetCode-/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ManjuManikandan10/LeetCode-/tree/main/2427-number-of-common-factors/) | Easy |
